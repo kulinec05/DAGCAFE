@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/DAGCAFE/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/DAGCAFE/static/js/main.4f31fbef.chunk.js",
+    "main.js.map": "/DAGCAFE/static/js/main.4f31fbef.chunk.js.map",
+    "runtime-main.js": "/DAGCAFE/static/js/runtime-main.fba9d160.js",
+    "runtime-main.js.map": "/DAGCAFE/static/js/runtime-main.fba9d160.js.map",
+    "static/css/2.c1256375.chunk.css": "/DAGCAFE/static/css/2.c1256375.chunk.css",
+    "static/js/2.d0aead81.chunk.js": "/DAGCAFE/static/js/2.d0aead81.chunk.js",
+    "static/js/2.d0aead81.chunk.js.map": "/DAGCAFE/static/js/2.d0aead81.chunk.js.map",
+    "static/js/3.bad9d680.chunk.js": "/DAGCAFE/static/js/3.bad9d680.chunk.js",
+    "static/js/3.bad9d680.chunk.js.map": "/DAGCAFE/static/js/3.bad9d680.chunk.js.map",
+    "index.html": "/DAGCAFE/index.html",
+    "static/css/2.c1256375.chunk.css.map": "/DAGCAFE/static/css/2.c1256375.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/DAGCAFE/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.d0aead81.chunk.js.LICENSE.txt": "/DAGCAFE/static/js/2.d0aead81.chunk.js.LICENSE.txt",
+    "static/media/compot.5e8066b2.jpg": "/DAGCAFE/static/media/compot.5e8066b2.jpg",
+    "static/media/lovetime.15c0edf2.jpg": "/DAGCAFE/static/media/lovetime.15c0edf2.jpg",
+    "static/media/nature1.9d8dd495.jpg": "/DAGCAFE/static/media/nature1.9d8dd495.jpg",
+    "static/media/pizza.728d37ab.jpg": "/DAGCAFE/static/media/pizza.728d37ab.jpg",
+    "static/media/shaurma.bf81826a.jpg": "/DAGCAFE/static/media/shaurma.bf81826a.jpg",
+    "static/media/veranda.82d96790.jpg": "/DAGCAFE/static/media/veranda.82d96790.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fba9d160.js",
+    "static/css/2.c1256375.chunk.css",
+    "static/js/2.d0aead81.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.4f31fbef.chunk.js"
+  ]
+}

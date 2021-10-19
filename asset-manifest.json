@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/DAGCAFE/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/DAGCAFE/static/js/main.0589c62c.chunk.js",
-    "main.js.map": "/DAGCAFE/static/js/main.0589c62c.chunk.js.map",
+    "main.js": "/DAGCAFE/static/js/main.699e1807.chunk.js",
+    "main.js.map": "/DAGCAFE/static/js/main.699e1807.chunk.js.map",
     "runtime-main.js": "/DAGCAFE/static/js/runtime-main.fba9d160.js",
     "runtime-main.js.map": "/DAGCAFE/static/js/runtime-main.fba9d160.js.map",
     "static/css/2.c1256375.chunk.css": "/DAGCAFE/static/css/2.c1256375.chunk.css",
@@ -26,6 +26,6 @@
     "static/css/2.c1256375.chunk.css",
     "static/js/2.d0aead81.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.0589c62c.chunk.js"
+    "static/js/main.699e1807.chunk.js"
   ]
 }
